@@ -1,0 +1,58 @@
+# Project Documentation: Nancy's Nestlings
+
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Technologies Used](#technologies-used)
+3. [Website Structure](#website-structure)
+4. [Page Descriptions](#page-descriptions)
+5. [Features](#features)
+6. [Installation and Setup](#installation-and-setup)
+7. [Deployment](#deployment)
+8. [Live URL](#live-url)
+9. [Future Enhancements](#future-enhancements)
+
+## Project Overview
+**Nancy's Nestlings** is a multipage website designed for a baby shop that caters to toddlers, kids, and maternity needs. The website provides information about the shop, showcases featured products, and allows customers to contact the shop for inquiries.
+
+## Technologies Used
+- **HTML5**: For semantic structure and content layout.
+- **CSS3**: For styling and responsive design.
+- **JavaScript**: For interactivity, including form validation.
+- **Git**: For version control.
+- **GitHub Pages/Netlify/Vercel**: For website deployment.
+
+## Website Structure
+The project consists of the following files:
+nancy-nestlings/
+│
+├── index.html          # Home page
+├── about.html          # About page
+├── contact.html        # Contact page
+├── styles.css          # CSS file for styling
+├── script.js           # JavaScript file for interactivity
+└── images/             # Folder for images
+
+
+
+## Page Descriptions
+1. **Home Page (index.html)**: 
+   - Introduces Nancy's Nestlings and highlights featured products.
+   
+2. **About Page (about.html)**: 
+   - Provides information about the shop's mission and values.
+   
+3. **Contact Page (contact.html)**: 
+   - Contains a contact form for customer inquiries.
+
+## Features
+- Responsive design that adapts to different screen sizes.
+- Interactivity with a contact form that displays an alert upon submission.
+- Semantic HTML for better SEO and accessibility.
+
+The website is deployed using GitHub Pages and Netlify.
+
+Future Enhancements
+Add a product catalog with detailed descriptions and prices.
+Implement user authentication for personalized shopping experiences.
+Include a blog section for parenting tips and product reviews.
+Enhance the contact form with additional fields and validation.
