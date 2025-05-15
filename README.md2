@@ -9,7 +9,7 @@ url:https://kariminanncywek8web.netlify.app/
 5. [Features](#features)
 6. [Installation and Setup](#installation-and-setup)
 7. [Deployment](#deployment)
-8. [Live URL](#live-url)
+8. https://kariminanncywek8web.netlify.app/
 9. [Future Enhancements](#future-enhancements)
 
 ## Project Overview
@@ -20,7 +20,7 @@ url:https://kariminanncywek8web.netlify.app/
 - **CSS3**: For styling and responsive design.
 - **JavaScript**: For interactivity, including form validation.
 - **Git**: For version control.
-- **GitHub Pages/Netlify/Vercel**: For website deployment.
+- **GitHub Pages and Netlify: For website deployment.
 
 ## Website Structure
 The project consists of the following files:
